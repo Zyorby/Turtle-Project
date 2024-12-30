@@ -1,5 +1,5 @@
 '''
-ITCS 1140 Group Project for Turtle #4
+Group Project for Turtle #4
 Raymond Connor Zachary Almedin
 '''
 import turtle as t
